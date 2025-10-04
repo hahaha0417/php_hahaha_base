@@ -1,2 +1,3 @@
 # php_hahaha_base
-基礎架構
+
+hahaha library套版空殼 with laravel 12
